@@ -1,4 +1,5 @@
 #Werner ist doof
+# Adrian auch
 # Importiert das datetime-Modul aus der datetime-Bibliothek
 from datetime import datetime
 
