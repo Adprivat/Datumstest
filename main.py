@@ -1,3 +1,4 @@
+#Werner ist doof
 # Importiert das datetime-Modul aus der datetime-Bibliothek
 from datetime import datetime
 
