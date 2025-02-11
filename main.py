@@ -1,6 +1,8 @@
 # Importiert das datetime-Modul aus der datetime-Bibliothek
 from datetime import datetime
 
+name =["andi"]
+
 # Definiert eine Funktion, um ein Datum vom Benutzer zu erhalten
 def get_date_from_user():
     # Fordert den Benutzer auf, ein Datum im Format TT.MM.JJJJ einzugeben
@@ -17,3 +19,4 @@ def get_date_from_user():
 # Führt die Funktion aus, wenn das Skript direkt ausgeführt wird
 if __name__ == "__main__":
     get_date_from_user()
+
